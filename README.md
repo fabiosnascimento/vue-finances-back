@@ -5,6 +5,8 @@
 
 API GraphQL do Gerenciador de Finanças Pessoais, desenvolvida no curso [Vue JS - Guia Completo (Vue CLI, Vue Router, Vuex e GraphQL)](https://www.udemy.com/course/vue-js-guia-completo/?couponCode=VUE_GITHUB) disponível na Udemy.com.
 
+Repositório do frontend [aqui](https://github.com/fabiosnascimento/vue-finances-front).
+
 # Tecnologias utilizadas
 
 * NodeJS
